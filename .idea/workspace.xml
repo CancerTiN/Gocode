@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d210d4-0f5d-4c8e-9a02-a29e14a20c48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grammar/int-to-string/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grammar/string-to-int/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grammar/string-to-int/string-to-int.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/count-and-say/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/implement-strstr/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/maximum-subarray/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/remove-element/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/search-insert-position/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/eating-grapes/eating-grapes.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/eating-grapes/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grammar/shift-operation/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grammar/string-to-binary/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/add-binary/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/climbing-stairs/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/length-of-last-word/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/merge-sorted-array/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/plus-one/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/remove-duplicates-from-sorted-list/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/same-tree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/sqrtx/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/symmetric-tree/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,59 +65,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Gocode/src/leecode/maximum-subarray">
-    <configuration name="go build Gocode/src/grammar/int-to-string" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Gocode/src/leecode/symmetric-tree">
+    <configuration name="go build Gocode/src/leecode/climbing-stairs" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/grammar/int-to-string/main.go" />
-      <package value="Gocode/src/grammar/int-to-string" />
+      <filePath value="$PROJECT_DIR$/src/leecode/climbing-stairs/main.go" />
+      <package value="Gocode/src/leecode/climbing-stairs" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/grammar/string-to-int" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Gocode/src/leecode/merge-sorted-array" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/grammar/string-to-int/main.go" />
-      <package value="Gocode/src/grammar/string-to-int" />
+      <filePath value="$PROJECT_DIR$/src/leecode/merge-sorted-array/main.go" />
+      <package value="Gocode/src/leecode/merge-sorted-array" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/leecode/count-and-say" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Gocode/src/leecode/remove-duplicates-from-sorted-list" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/leecode/count-and-say/main.go" />
-      <package value="Gocode/src/leecode/count-and-say" />
+      <filePath value="$PROJECT_DIR$/src/leecode/remove-duplicates-from-sorted-list/main.go" />
+      <package value="Gocode/src/leecode/remove-duplicates-from-sorted-list" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/leecode/maximum-subarray" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Gocode/src/leecode/same-tree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/leecode/maximum-subarray/main.go" />
-      <package value="Gocode/src/leecode/maximum-subarray" />
+      <filePath value="$PROJECT_DIR$/src/leecode/same-tree/main.go" />
+      <package value="Gocode/src/leecode/same-tree" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/nowcoder/eating-grapes" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Gocode/src/leecode/symmetric-tree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/nowcoder/eating-grapes/main.go" />
-      <package value="Gocode/src/nowcoder/eating-grapes" />
+      <filePath value="$PROJECT_DIR$/src/leecode/symmetric-tree/main.go" />
+      <package value="Gocode/src/leecode/symmetric-tree" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Gocode/src/leecode/maximum-subarray" />
-        <item itemvalue="Go Build.go build Gocode/src/leecode/count-and-say" />
-        <item itemvalue="Go Build.go build Gocode/src/grammar/int-to-string" />
-        <item itemvalue="Go Build.go build Gocode/src/nowcoder/eating-grapes" />
-        <item itemvalue="Go Build.go build Gocode/src/grammar/string-to-int" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/symmetric-tree" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/same-tree" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/merge-sorted-array" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/remove-duplicates-from-sorted-list" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/climbing-stairs" />
       </list>
     </recent_temporary>
   </component>
