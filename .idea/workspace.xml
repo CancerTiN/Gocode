@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d210d4-0f5d-4c8e-9a02-a29e14a20c48" name="Default Changelist" comment="leecode_108_end">
-      <change afterPath="$PROJECT_DIR$/src/grammar/slice-boundary/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/binary-tree-level-order-traversal-ii/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/convert-sorted-array-to-binary-search-tree/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leecode/maximum-depth-of-binary-tree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grammar/time-string/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction-to-algorithms/chapter02/insertion-sort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction-to-algorithms/chapter04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leecode/balanced-binary-tree/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +28,15 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1Y0OoIfZPa50w4GHXtt65OkZhdn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -40,41 +45,47 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Workspace\Gocode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Go Build.go build Gocode/src/leecode/convert-sorted-array-to-binary-search-tree">
-    <configuration name="go build Gocode/src/grammar/slice-boundary" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Gocode/src/introduction-to-algorithms/chapter04">
+    <configuration name="go build Gocode/src/grammar/time-string" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/grammar/slice-boundary/main.go" />
-      <package value="Gocode/src/grammar/slice-boundary" />
+      <filePath value="$PROJECT_DIR$/src/grammar/time-string/main.go" />
+      <package value="Gocode/src/grammar/time-string" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/leecode/binary-tree-level-order-traversal-ii" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Gocode/src/introduction-to-algorithms/chapter02/insertion-sort" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Gocode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/leecode/binary-tree-level-order-traversal-ii/main.go" />
-      <package value="Gocode/src/leecode/binary-tree-level-order-traversal-ii" />
+      <filePath value="$PROJECT_DIR$/src/introduction-to-algorithms/chapter02/insertion-sort/main.go" />
+      <package value="Gocode/src/introduction-to-algorithms/chapter02/insertion-sort" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Gocode/src/introduction-to-algorithms/chapter04" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Gocode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/introduction-to-algorithms/chapter04/main.go" />
+      <package value="Gocode/src/introduction-to-algorithms/chapter04" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Gocode/src/leecode/balanced-binary-tree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Gocode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/leecode/balanced-binary-tree/main.go" />
+      <package value="Gocode/src/leecode/balanced-binary-tree" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -87,31 +98,13 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Gocode/src/leecode/maximum-depth-of-binary-tree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Gocode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/leecode/maximum-depth-of-binary-tree/main.go" />
-      <package value="Gocode/src/leecode/maximum-depth-of-binary-tree" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Gocode/src/leecode/symmetric-tree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Gocode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/leecode/symmetric-tree/main.go" />
-      <package value="Gocode/src/leecode/symmetric-tree" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Gocode/src/introduction-to-algorithms/chapter04" />
+        <item itemvalue="Go Build.go build Gocode/src/introduction-to-algorithms/chapter02/insertion-sort" />
+        <item itemvalue="Go Build.go build Gocode/src/grammar/time-string" />
+        <item itemvalue="Go Build.go build Gocode/src/leecode/balanced-binary-tree" />
         <item itemvalue="Go Build.go build Gocode/src/leecode/convert-sorted-array-to-binary-search-tree" />
-        <item itemvalue="Go Build.go build Gocode/src/grammar/slice-boundary" />
-        <item itemvalue="Go Build.go build Gocode/src/leecode/binary-tree-level-order-traversal-ii" />
-        <item itemvalue="Go Build.go build Gocode/src/leecode/maximum-depth-of-binary-tree" />
-        <item itemvalue="Go Build.go build Gocode/src/leecode/symmetric-tree" />
       </list>
     </recent_temporary>
   </component>
@@ -139,5 +132,35 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="111" key="CommitChangelistDialog2" timestamp="1584093569119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584093569119" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584093570142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584093570142" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584093570142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584093570142" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584093570141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584093570141" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584093570142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584093570142" />
+    <state x="564" y="169" key="SettingsEditor" timestamp="1584091884944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584091884944" />
+    <state x="397" y="99" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584093060981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="397" y="99" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584093060981" />
   </component>
 </project>
